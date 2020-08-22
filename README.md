@@ -9,4 +9,5 @@
      <p>
       namespace=xvba_modules\xvba_gaus
      </p>
-    
+
+- For use this package jus clone it to xvba_modules folder in a subfolder named xvba_gaus 
